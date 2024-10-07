@@ -1,0 +1,6 @@
+{
+    "dataworkspace.excludedProjects": [
+        "mssqllocaldb/mssqllocaldb.sqlproj",
+        "ProjetoPedidos/Data/mssqllocaldb/mssqllocaldb.sqlproj"
+    ]
+}
